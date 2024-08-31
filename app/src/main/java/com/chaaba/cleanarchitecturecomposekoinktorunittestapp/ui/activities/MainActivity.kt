@@ -1,4 +1,4 @@
-package com.chaaba.cleanarchitecturecomposekoinktorunittestapp
+package com.chaaba.cleanarchitecturecomposekoinktorunittestapp.ui.activities
 
 import android.os.Bundle
 import androidx.activity.ComponentActivity
